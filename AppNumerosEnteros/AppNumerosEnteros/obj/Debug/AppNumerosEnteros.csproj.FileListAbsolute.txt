@@ -1,0 +1,9 @@
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\bin\Debug\AppNumerosEnteros.exe.config
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\bin\Debug\AppNumerosEnteros.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\bin\Debug\AppNumerosEnteros.pdb
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\obj\Debug\AppNumerosEnteros.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\obj\Debug\AppNumerosEnteros.Form1.resources
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\obj\Debug\AppNumerosEnteros.Properties.Resources.resources
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\obj\Debug\AppNumerosEnteros.csproj.GenerateResource.Cache
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\obj\Debug\AppNumerosEnteros.exe
+c:\users\lab104bpc23\documents\visual studio 2012\Projects\AppNumerosEnteros\AppNumerosEnteros\obj\Debug\AppNumerosEnteros.pdb
